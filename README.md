@@ -10,9 +10,7 @@ Traditional translation methods often struggle with complex linguistic patterns 
 
 ## 🎥 Demo Video
 
-Watch the project demonstration here:
-
-[Neural Machine Translation System Demo](https://drive.google.com/file/d/1MfoWEHlpKF2JRGBCzu2umDWoSGPp-U3k/view?usp=sharing)
+Watch the project demonstration here: [Neural Machine Translation System Demo](https://drive.google.com/file/d/1MfoWEHlpKF2JRGBCzu2umDWoSGPp-U3k/view?usp=sharing)
 
 The demo showcases:
 
@@ -23,8 +21,7 @@ The demo showcases:
 
 ## 📊 Project Presentation
 
-View the project presentation here:  
-[Neural Machine Translation System Presentation](https://www.canva.com/design/DAF0txlhcGk/7N-jw42zRJ3VBMGgYjhtiA/edit?utm_content=DAF0txlhcGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+View the project presentation here: [Neural Machine Translation System Presentation](https://www.canva.com/design/DAF0txlhcGk/7N-jw42zRJ3VBMGgYjhtiA/edit?utm_content=DAF0txlhcGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 The presentation covers:
 
