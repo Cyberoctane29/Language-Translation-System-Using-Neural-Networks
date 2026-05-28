@@ -20,6 +20,19 @@ The demo showcases:
 - Sample input/output translations
 - System functionality and implementation overview
 
+## 📊 Project Presentation
+
+View the project presentation here:  
+[Neural Machine Translation System Presentation](https://www.canva.com/design/DAF0txlhcGk/7N-jw42zRJ3VBMGgYjhtiA/edit?utm_content=DAF0txlhcGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+The presentation covers:
+
+- Project overview and objectives
+- Neural Machine Translation workflow
+- Model architecture and implementation
+- Key features and system design
+- Results, challenges, and future enhancements
+
 ### Objectives
 
 1. **Multilingual Communication:** Develop a neural-based translation system for seamless cross-lingual communication.
